@@ -42,7 +42,7 @@ export default function Home() {
     <main className="p-10 max-w-2xl mx-auto">
       <h1 className="text-3xl font-bold mb-6">My Dashboard</h1>
       <h2 className="text-2xl font-bold mb-4 mt-8">
-        Input Learning Things to Note
+        Quickly Send Anything to Notion
       </h2>
       <form
         onSubmit={(e) => {
